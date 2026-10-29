@@ -3,5 +3,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="TelemetryBlackBox/TelemetryBlackBox.vcxproj" />
+  <Project Path="TelemetryBlackBox/TelemetryBlackBox.vcxproj" Id="92c8c1e4-d21c-433c-8638-b2af9df7386e" />
+  <Project Path="TelemetryBlackBoxTest/TelemetryBlackBoxTest.vcxproj" Id="a36471c9-890a-4d71-bfe8-00b7c7abdcf5" />
 </Solution>
